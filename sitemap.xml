@@ -8,6 +8,20 @@
 <priority>1.0</priority>
 </url>
 
+<!-- ChatUI -->
+<url>
+<loc>https://jokyboy129.github.io/ChatUI/</loc>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+
+<!-- Landrop -->
+<url>
+<loc>https://jokyboy129.github.io/Landrop/</loc>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+
 <!-- Mathmax Hauptseite -->
 <url>
 <loc>https://jokyboy129.github.io/Mathmax/</loc>
@@ -20,13 +34,6 @@
 <loc>https://jokyboy129.github.io/Mathmax/ui/</loc>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
-</url>
-
-<!-- ChatUI -->
-<url>
-<loc>https://jokyboy129.github.io/ChatUI/</loc>
-<changefreq>monthly</changefreq>
-<priority>0.9</priority>
 </url>
 
 <!-- Periodic Table -->
